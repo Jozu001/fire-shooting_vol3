@@ -68,8 +68,9 @@ void Update()
     FillRect(targetRect, Color::red);
 
     // スコアの描画
-    SetFont("nicoca_v1.ttf", 20.0f);
-    DrawText(FormatString("%02d", score), Vector2(-319, 199), Color::black);
-    DrawText(FormatString("%02d", score), Vector2(-320, 200), Color::white);
+    //スコアのサイズ(E:HW16A015,井上太玖夢)
+    SetFont("nicoca_v1.ttf", 120.0f);
+    DrawText(FormatString("%02d", score), Vector2(-319, 149), Color::black);
+    DrawText(FormatString("%02d", score), Vector2(-320, 150), Color::white);
 }
 
