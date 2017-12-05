@@ -63,7 +63,6 @@
 		8EED81BC1DF1DD4200761408 /* SoundImpl.mm in Sources */ = {isa = PBXBuildFile; fileRef = 8EED81B91DF1DD4200761408 /* SoundImpl.mm */; };
 		8EED81BE1DF1E41D00761408 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EED81BD1DF1E41D00761408 /* AVFoundation.framework */; };
 		8EED81C41DF31F1B00761408 /* Simple2D.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8EED81C21DF31F1B00761408 /* Simple2D.cpp */; };
-		8EED81F11DF550B000761408 /* Game.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8EED81EF1DF550B000761408 /* Game.cpp */; };
 		8EF05F6913EEB53F007C1B2E /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EF05F6813EEB53E007C1B2E /* OpenGL.framework */; };
 		8EF05F6D13EEB563007C1B2E /* OpenAL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EF05F6B13EEB563007C1B2E /* OpenAL.framework */; };
 		8EF0608A13EEC04F007C1B2E /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EF0608913EEC04F007C1B2E /* AudioToolbox.framework */; };
@@ -499,7 +498,6 @@
 			files = (
 				8EED81411DF1D49E00761408 /* Vector3.cpp in Sources */,
 				8EE63A5A1432690C00922244 /* GMAppDelegate.mm in Sources */,
-				8EED81F11DF550B000761408 /* Game.cpp in Sources */,
 				8EED815C1DF1D5AD00761408 /* Random.cpp in Sources */,
 				8EED81C41DF31F1B00761408 /* Simple2D.cpp in Sources */,
 				8EED81831DF1D81B00761408 /* Camera.cpp in Sources */,
